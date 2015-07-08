@@ -208,13 +208,6 @@ GitHub: [https://github.com/projectfedena/fedena](https://github.com/projectfede
 
 Website: [http://www.projectfedena.org/](http://www.projectfedena.org/)
 
-#### OpenEMIS
-“The OpenEMIS initiative aims to deploy a high-quality Education Management Information System (EMIS) designed to collect and report data on schools, students, teachers and staff” [(source)](https://www.openemis.org/about).
-
-Google Code: [https://code.google.com/p/openemis/](https://code.google.com/p/openemis/)
-
-Website: [https://www.openemis.org/](https://www.openemis.org/)
-
 #### Tangerine
 “An app for assessing math and reading skills, designed for tablets but works everywhere” [(source)](https://github.com/Tangerine-Community/Tangerine/tree/develop).
 
